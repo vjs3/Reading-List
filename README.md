@@ -14,3 +14,9 @@ Daily reading list to keep track of my day to day reading.
 ### 22 July 2017
 
 * [If You Don’t Believe In Setting Goals, It’s Because You Don’t Know How To Do It](https://medium.com/@benjaminhardy/if-you-dont-believe-in-setting-goals-it-s-because-you-don-t-know-how-to-do-it-cdddea181aab)
+
+
+### 23 July 2017
+
+* [One thing that seperate creators from consumers](https://journal.thriveglobal.com/the-difference-between-those-who-always-remain-children-and-the-few-who-truly-succeed-a5c7669224d4)
+
