@@ -20,3 +20,7 @@ Daily reading list to keep track of my day to day reading.
 
 * [One thing that seperate creators from consumers](https://journal.thriveglobal.com/the-difference-between-those-who-always-remain-children-and-the-few-who-truly-succeed-a5c7669224d4)
 
+### 27 July 2017
+
+* [Where To Start When You’ve Procrastinated On Your Goals For Too Long](https://medium.com/personal-growth/where-to-start-when-youve-procrastinated-on-your-goals-for-too-long-ead87d0c91ba)
+
