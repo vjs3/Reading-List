@@ -24,4 +24,4 @@ Daily reading list to keep track of my day to day reading.
 
 * [Where To Start When You’ve Procrastinated On Your Goals For Too Long](https://medium.com/personal-growth/where-to-start-when-youve-procrastinated-on-your-goals-for-too-long-ead87d0c91ba)
 
-* [Worry is the mnost useless emotion](https://m.signalvnoise.com/worry-is-the-most-useless-emotion-a7cf0ec65474)
+* [Worry is the most useless emotion](https://m.signalvnoise.com/worry-is-the-most-useless-emotion-a7cf0ec65474)
