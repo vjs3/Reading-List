@@ -27,3 +27,8 @@ Daily reading list to keep track of my day to day reading.
 * [Worry is the most useless emotion](https://m.signalvnoise.com/worry-is-the-most-useless-emotion-a7cf0ec65474)
 
 * [Measuring our success](http://www.whatkatfoundout.com/measuring-success/)
+
+
+### 29 July 2017
+
+* [The importance of side projects](https://medium.com/the-year-of-the-looking-glass/the-importance-of-side-projects-cf9f63954031)
