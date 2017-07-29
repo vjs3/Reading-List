@@ -32,3 +32,5 @@ Daily reading list to keep track of my day to day reading.
 ### 29 July 2017
 
 * [The importance of side projects](https://medium.com/the-year-of-the-looking-glass/the-importance-of-side-projects-cf9f63954031)
+
+* [How not to start a startup](https://medium.com/the-mission/how-not-to-start-a-startup-e87c5b344909)
