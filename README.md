@@ -38,3 +38,5 @@ Daily reading list to keep track of my day to day reading.
 ### 30 July 2017
 
 * [Things to be aware of as a startup candidate](https://www.linkedin.com/pulse/dear-startup-candidates-4-things-matter-more-me-than-your-ajay-yadav)
+
+* [How to build Network from scratch](https://www.linkedin.com/pulse/how-build-your-network-from-scratch-startup-founder-ajay-yadav)
