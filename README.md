@@ -40,3 +40,7 @@ Daily reading list to keep track of my day to day reading.
 * [Things to be aware of as a startup candidate](https://www.linkedin.com/pulse/dear-startup-candidates-4-things-matter-more-me-than-your-ajay-yadav)
 
 * [How to build Network from scratch](https://www.linkedin.com/pulse/how-build-your-network-from-scratch-startup-founder-ajay-yadav)
+
+### 31 July 2017
+
+* [Dig yourself out of the coding turial rut](https://medium.freecodecamp.org/how-to-dig-yourself-out-of-the-coding-tutorial-rut-7d3b2232f234)
