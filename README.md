@@ -44,3 +44,5 @@ Daily reading list to keep track of my day to day reading.
 ### 31 July 2017
 
 * [Dig yourself out of the coding turial rut](https://medium.freecodecamp.org/how-to-dig-yourself-out-of-the-coding-tutorial-rut-7d3b2232f234)
+
+* [Eliminate trying](https://medium.com/the-mission/eliminate-trying-its-for-wimps-526c83e5338c)
