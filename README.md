@@ -52,3 +52,5 @@ Daily reading list to keep track of my day to day reading.
 ### 1 August 2017
 
 * [Being a speaker at a confrence: Unknown things](https://medium.com/@firt/being-a-speaker-parts-unknown-1e03489fe098)
+
+* [How to launch on Product Hunt](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399)
