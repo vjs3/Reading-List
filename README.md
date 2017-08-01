@@ -55,6 +55,6 @@ Daily reading list to keep track of my day to day reading.
 
 * [How to launch on Product Hunt](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399)
 
-* [Getting smarter everyday](https://journal.thriveglobal.com/a-smarter-you-is-only-5-minutes-away-b888b871f716)
+* [Getting smarter everyday](https://journal.thriveglobal.com/a-smarter-you-is-only-5-minutes-away-b888b871f716) 
 
-* [Feynman Technique] (https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/)
+* [Feynman Technique](https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/) 
