@@ -47,7 +47,7 @@ Daily reading list to keep track of my day to day reading.
 
 * [Eliminate trying](https://medium.com/the-mission/eliminate-trying-its-for-wimps-526c83e5338c)
 
-* [Relationships are better than networking] (https://medium.com/@misbahspeaks/why-relationships-are-110-better-than-networking-2801aa031202) 
+* [Relatiships over Networking](https://medium.com/@misbahspeaks/why-relationships-are-110-better-than-networking-2801aa031202) 
 
 ### 1 August 2017
 
