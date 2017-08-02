@@ -58,3 +58,7 @@ Daily reading list to keep track of my day to day reading.
 * [Getting smarter everyday](https://journal.thriveglobal.com/a-smarter-you-is-only-5-minutes-away-b888b871f716) 
 
 * [Feynman Technique](https://www.farnamstreetblog.com/2012/04/learn-anything-faster-with-the-feynman-technique/) 
+
+### 2 August 2017
+
+* [Taking responsibility of life](https://journal.thriveglobal.com/what-happens-when-you-take-full-responsibility-of-your-life-dbbb5c5afcf6)
