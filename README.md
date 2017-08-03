@@ -68,3 +68,5 @@ Daily reading list to keep track of my day to day reading.
 * [What is Context in Android?](https://possiblemobile.com/2013/06/context/)
 
 * [Perfromance practices from athletes](https://journal.thriveglobal.com/8-proven-performance-practices-from-billionaires-and-elite-athletes-4de26bf88ba7)
+
+* [How Product Hunt really works (not so good side of PH)](https://medium.com/@benjiwheeler/how-product-hunt-really-works-d8fdcda1da74)
