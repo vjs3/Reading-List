@@ -62,3 +62,7 @@ Daily reading list to keep track of my day to day reading.
 ### 2 August 2017
 
 * [Taking responsibility of life](https://journal.thriveglobal.com/what-happens-when-you-take-full-responsibility-of-your-life-dbbb5c5afcf6)
+
+### 3 August 2017
+
+* [What is Context in Android?](https://possiblemobile.com/2013/06/context/)
