@@ -66,3 +66,5 @@ Daily reading list to keep track of my day to day reading.
 ### 3 August 2017
 
 * [What is Context in Android?](https://possiblemobile.com/2013/06/context/)
+
+* [Perfromance practices from athletes](https://journal.thriveglobal.com/8-proven-performance-practices-from-billionaires-and-elite-athletes-4de26bf88ba7)
