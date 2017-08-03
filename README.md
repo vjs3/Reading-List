@@ -70,3 +70,7 @@ Daily reading list to keep track of my day to day reading.
 * [Perfromance practices from athletes](https://journal.thriveglobal.com/8-proven-performance-practices-from-billionaires-and-elite-athletes-4de26bf88ba7)
 
 * [How Product Hunt really works (not so good side of PH)](https://medium.com/@benjiwheeler/how-product-hunt-really-works-d8fdcda1da74)
+
+### 4 August 2017
+
+* [What you do today defines who you are (read again)](https://journal.thriveglobal.com/tell-me-what-you-did-today-and-ill-tell-you-who-you-are-952e303ca0ad)
