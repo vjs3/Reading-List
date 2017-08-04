@@ -75,7 +75,7 @@ Daily reading list to keep track of my day to day reading.
 
 * [What you do today defines who you are (read again)](https://journal.thriveglobal.com/tell-me-what-you-did-today-and-ill-tell-you-who-you-are-952e303ca0ad)
 
-### 5 August 2017
-
 * [Shedding a bad habit](https://medium.com/taking-note/want-to-shed-a-bad-habit-know-yourself-better-93744e7739d3)
+
+### 5 August 2017
 
