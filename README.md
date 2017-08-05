@@ -79,4 +79,4 @@ Daily reading list to keep track of my day to day reading.
 
 ### 5 August 2017
 
-* [YuvAL Harari interview about sapiens](https://www.theguardian.com/culture/2017/mar/19/yuval-harari-sapiens-readers-questions-lucy-prebble-arianna-huffington-future-of-humanity)
+* [Yuval Harari interview about sapiens](https://www.theguardian.com/culture/2017/mar/19/yuval-harari-sapiens-readers-questions-lucy-prebble-arianna-huffington-future-of-humanity)
