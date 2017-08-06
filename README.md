@@ -86,3 +86,5 @@ Daily reading list to keep track of my day to day reading.
 * [Breaking bad habits](https://journal.thriveglobal.com/the-best-strategy-for-kicking-bad-habits-is-simpler-than-you-may-think-d752f3be6ca4)
 
 * [What engineering is all about](https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788)
+
+* [Using Product management skills to become a film maker](https://medium.com/@msnkarthik/how-being-a-product-manager-helped-me-release-my-first-film-in-less-than-150-hrs-6e78a038de7e)
