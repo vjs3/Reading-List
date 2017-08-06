@@ -84,3 +84,5 @@ Daily reading list to keep track of my day to day reading.
 ### 6 August 2017
 
 * [Breaking bad habits](https://journal.thriveglobal.com/the-best-strategy-for-kicking-bad-habits-is-simpler-than-you-may-think-d752f3be6ca4)
+
+* [What engineering is all about](https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788)
