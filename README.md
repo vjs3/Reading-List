@@ -92,3 +92,5 @@ Daily reading list to keep track of my day to day reading.
 ### 7 August 2017
 
 * [Owning your time](https://journal.thriveglobal.com/stop-managing-your-time-and-start-owning-it-c195d3c821f7)
+
+* [Eat, sleep, code, repeat is bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5)
