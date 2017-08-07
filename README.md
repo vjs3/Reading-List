@@ -1,6 +1,6 @@
 # Reading-List
 
-Daily reading list to keep track of my day to day reading.
+Collection of my hand-picked day to day reading. Topics ranging from programming, personal growth, entreprenuership, and more.
 
 ### 17 July 2017
 
