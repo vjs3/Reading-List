@@ -88,3 +88,7 @@ Daily reading list to keep track of my day to day reading.
 * [What engineering is all about](https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788)
 
 * [Using Product management skills to become a film maker](https://medium.com/@msnkarthik/how-being-a-product-manager-helped-me-release-my-first-film-in-less-than-150-hrs-6e78a038de7e)
+
+### 7 August 2017
+
+* [Owning your time](https://journal.thriveglobal.com/stop-managing-your-time-and-start-owning-it-c195d3c821f7)
