@@ -98,3 +98,7 @@ Collection of my hand-picked day to day reading. Topics ranging from programming
 ### 8 August 2017
 
 * [How next billions users actually think](https://www.wsj.com/articles/the-end-of-typing-the-internets-next-billion-users-will-use-video-and-voice-1502116070)
+
+### 11 August 2017
+
+* [Better writing](https://writingcooperative.com/this-2-minute-read-will-make-you-write-better-forever-a96984f657fc)
