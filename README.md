@@ -102,3 +102,7 @@ Collection of my hand-picked day to day reading. Topics ranging from programming
 ### 11 August 2017
 
 * [Better writing](https://writingcooperative.com/this-2-minute-read-will-make-you-write-better-forever-a96984f657fc)
+
+### 12 August 2017
+
+* [Pause and reflect](https://medium.com/the-mission/take-a-productive-pause-40eace753ff5)
