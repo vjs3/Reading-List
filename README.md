@@ -106,3 +106,7 @@ Collection of my hand-picked day to day reading. Topics ranging from programming
 ### 12 August 2017
 
 * [Pause and reflect](https://medium.com/the-mission/take-a-productive-pause-40eace753ff5)
+
+### 13 August 2017
+
+* [Strategies to produce deep meaningful work](https://medium.com/the-mission/4-strategies-to-produce-deep-meaningful-work-d9aafc3d32e3)
