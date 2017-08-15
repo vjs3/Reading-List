@@ -110,3 +110,7 @@ Collection of my hand-picked day to day reading. Topics ranging from programming
 ### 13 August 2017
 
 * [Strategies to produce deep meaningful work](https://medium.com/the-mission/4-strategies-to-produce-deep-meaningful-work-d9aafc3d32e3)
+
+### 15 August 2017
+
+* [Getting Meeting with busy people](https://medium.com/startup-grind/how-to-get-meetings-with-people-too-busy-to-see-you-d50fd9c978cc)
