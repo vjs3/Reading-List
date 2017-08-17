@@ -114,3 +114,7 @@ Collection of my hand-picked day to day reading. Topics ranging from programming
 ### 15 August 2017
 
 * [Getting Meeting with busy people](https://medium.com/startup-grind/how-to-get-meetings-with-people-too-busy-to-see-you-d50fd9c978cc)
+
+### 17 August 2017
+
+* [Landing a top notch tech job](https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d)
