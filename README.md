@@ -118,3 +118,7 @@ Collection of my hand-picked day to day reading. Topics ranging from programming
 ### 17 August 2017
 
 * [Landing a top notch tech job](https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d)
+
+### 18 August 2017
+
+* [Product Design](https://medium.com/hh-design/product-design-workshop-at-hackmit-2015-596c94262147)
