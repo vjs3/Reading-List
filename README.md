@@ -124,3 +124,7 @@ Collection of my hand-picked day to day reading. Topics ranging from programming
 * [Product Design](https://medium.com/hh-design/product-design-workshop-at-hackmit-2015-596c94262147)
 
 * [Arsenal of calm](https://betterhumans.coach.me/my-arsenal-of-calm-7677013b5ecd)
+
+### 24 August 2017
+
+* [Digital Nomad life style is not sustainable](http://www.digitalnomadsoul.com/digital-nomad-lifestyle-is-not-sustainable/)
